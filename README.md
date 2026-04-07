@@ -1,4 +1,4 @@
 # flo-core
 
 Contributors: Termitenshort
-Stable tag: 3.0.0
+Stable tag: 3.0.1
